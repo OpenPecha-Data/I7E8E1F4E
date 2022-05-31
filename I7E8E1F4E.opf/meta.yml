@@ -1,0 +1,25 @@
+id: I7E8E1F4E
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T06:36:29.703493'
+last_modified: '2022-05-31T06:36:29.703501'
+parser: null
+source_metadata:
+  title: Nubchen Sangye Yeshe
+  language: bo
+  description: 'Texts by and about Nubchen Sangye Yeshe (gnubs chen sangs rgyas ye
+    shes), a major figure in the early Nyingma lineage:'
+  volume:
+    f8C91:
+      title: Restorative Offering to the Eight Classes
+      base_file: f8C91.txt
+      order: 1
+      parent: Dharma Protectors
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
